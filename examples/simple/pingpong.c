@@ -1,13 +1,18 @@
-#include <avr/io.h>
-#include <avr/interrupt.h>
+#ifdef __PLATFORM_AVR__
+	#include <avr/io.h>
+	#include <avr/interrupt.h>
+	#include "../../../communication/Communication.h"
+#endif
+
 #include <util/delay.h>
 #include <string.h>
 
-#include "../../../communication/Communication.h"
 #include "rfm12.h"
 //#include "../uart_lib/uart.h"
 
-debug = Communication(0,"SD",8);
+#ifdef __PLATFORM_AVR__
+	debug = Communication(0,"SD",8);
+#endif
 
 int main ( void )
 {
