@@ -23,6 +23,7 @@
  *           C O N F I G U R A T I O N                *
  *                                                    *
  ******************************************************/
+#define __PLATFORM_LINUX__
 #ifdef __PLATFORM_AVR__
   #include <avr/io.h>
 #endif
