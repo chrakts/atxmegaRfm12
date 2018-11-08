@@ -78,7 +78,7 @@ static uint16_t rfm12_read(uint16_t address) {
 			.len = 2,
 			.delay_usecs = 0,
 			.speed_hz = speed,
-			.bits_per_word = bits
+			.bits_per_word = bits,
 		};
 
 	ret = ioctl(fd, SPI_IOC_MESSAGE(1), &tr);
