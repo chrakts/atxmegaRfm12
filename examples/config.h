@@ -23,7 +23,9 @@
  *           C O N F I G U R A T I O N                *
  *                                                    *
  ******************************************************/
-#include <avr/io.h>
+#ifdef __PLATFORM_AVR__
+  #include <avr/io.h>
+#endif
 
 #define UART_BAUD_RATE 115200
 #define UART_HEXDUMP
