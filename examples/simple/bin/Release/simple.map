@@ -1,0 +1,1172 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+                              obj/Release/communication/Serial.o (__mulsi3)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+                              obj/Release/communication/Serial.o (__udivmodhi4)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+                              obj/Release/communication/Serial.o (__udivmodsi4)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o (exit)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+                              obj/Release/communication/Communication.o (__do_copy_data)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+                              obj/Release/communication/Communication.o (__do_clear_bss)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+                              obj/Release/communication/Communication.o (__do_global_ctors)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+                              obj/Release/communication/Communication.o (__do_global_dtors)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+                              obj/Release/communication/Serial.o (__muluhisi3)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (__prologue_saves__)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (__epilogue_restores__)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o) (__tablejump2__)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o) (__umulhisi3)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen_P.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(memcpy.o)
+                              obj/Release/librfm12/examples/simple/rfm12.o (memcpy)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (strnlen)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (fputc)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+                              obj/Release/communication/Communication.o (sprintf)
+/home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ultoa_invert.o)
+                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+ .data          0x0000000000000000        0x0 obj/Release/communication/CmultiBusy.o
+ .bss           0x0000000000000000        0x0 obj/Release/communication/CmultiBusy.o
+ .group         0x0000000000000000        0x8 obj/Release/communication/Communication.o
+ .text          0x0000000000000000      0x2a8 obj/Release/communication/Communication.o
+ .data          0x0000000000000000        0x0 obj/Release/communication/Communication.o
+ .rodata.str1.1
+                0x0000000000000000       0x1b obj/Release/communication/Communication.o
+ .rodata._ZTV13Communication
+                0x0000000000000000        0x8 obj/Release/communication/Communication.o
+ .data          0x0000000000000000        0x0 obj/Release/communication/CRC_Calc.o
+ .bss           0x0000000000000000        0x0 obj/Release/communication/CRC_Calc.o
+ .group         0x0000000000000000        0x8 obj/Release/communication/Serial.o
+ .text          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_extra.o
+ .data          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_extra.o
+ .bss           0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_extra.o
+ .comment       0x0000000000000000       0x31 obj/Release/librfm12/src/include/rfm12_extra.o
+ .text          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_livectrl.o
+ .data          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_livectrl.o
+ .bss           0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_livectrl.o
+ .comment       0x0000000000000000       0x31 obj/Release/librfm12/src/include/rfm12_livectrl.o
+ .text          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_spi.o
+ .data          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_spi.o
+ .bss           0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_spi.o
+ .comment       0x0000000000000000       0x31 obj/Release/librfm12/src/include/rfm12_spi.o
+ .text          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_spi_linux.o
+ .data          0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_spi_linux.o
+ .bss           0x0000000000000000        0x0 obj/Release/librfm12/src/include/rfm12_spi_linux.o
+ .comment       0x0000000000000000       0x31 obj/Release/librfm12/src/include/rfm12_spi_linux.o
+ .data          0x0000000000000000        0x0 obj/Release/librfm12/examples/simple/pingpong.o
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen_P.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen_P.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen_P.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+ .text          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ultoa_invert.o)
+ .data          0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ultoa_invert.o)
+ .bss           0x0000000000000000        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000100000 xr
+data             0x0000000000802000 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000006 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+LOAD obj/Release/communication/CmultiBusy.o
+LOAD obj/Release/communication/Communication.o
+LOAD obj/Release/communication/CRC_Calc.o
+LOAD obj/Release/communication/Serial.o
+LOAD obj/Release/librfm12/src/include/rfm12_extra.o
+LOAD obj/Release/librfm12/src/include/rfm12_livectrl.o
+LOAD obj/Release/librfm12/src/include/rfm12_spi.o
+LOAD obj/Release/librfm12/src/include/rfm12_spi_linux.o
+LOAD obj/Release/librfm12/examples/simple/pingpong.o
+LOAD obj/Release/librfm12/examples/simple/rfm12.o
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libm.a
+START GROUP
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libm.a
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a
+LOAD /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libatxmega32a4.a
+END GROUP
+                0x0000000000100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000006]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x1de2
+ *(.vectors)
+ .vectors       0x0000000000000000      0x178 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000178                . = ALIGN (0x2)
+                0x0000000000000178                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000178        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000178                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x0000000000000178        0x8 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x0000000000000180       0xfa /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+ *(.progmem*)
+ .progmem.data  0x000000000000027a       0x18 obj/Release/librfm12/examples/simple/rfm12.o
+                0x0000000000000292                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000292                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000000000000292        0x2 obj/Release/communication/Communication.o
+ .ctors         0x0000000000000294        0x2 obj/Release/librfm12/examples/simple/pingpong.o
+                0x0000000000000296                __ctors_end = .
+                0x0000000000000296                __dtors_start = .
+ *(.dtors)
+ .dtors         0x0000000000000296        0x2 obj/Release/communication/Communication.o
+ .dtors         0x0000000000000298        0x2 obj/Release/librfm12/examples/simple/pingpong.o
+                0x000000000000029a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000029a        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+                0x000000000000029a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000029a        0xc /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000002a6       0x16 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+                0x00000000000002a6                __do_copy_data
+ .init4         0x00000000000002bc       0x10 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+                0x00000000000002bc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000002cc       0x16 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+                0x00000000000002cc                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000002e2        0x8 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000002ea        0x4 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+                0x00000000000002ea                __vector_38
+                0x00000000000002ea                __vector_22
+                0x00000000000002ea                __vector_63
+                0x00000000000002ea                __vector_28
+                0x00000000000002ea                __vector_67
+                0x00000000000002ea                __vector_1
+                0x00000000000002ea                __vector_32
+                0x00000000000002ea                __vector_75
+                0x00000000000002ea                __vector_71
+                0x00000000000002ea                __vector_91
+                0x00000000000002ea                __vector_34
+                0x00000000000002ea                __vector_62
+                0x00000000000002ea                __vector_77
+                0x00000000000002ea                __vector_24
+                0x00000000000002ea                __vector_12
+                0x00000000000002ea                __vector_55
+                0x00000000000002ea                __vector_69
+                0x00000000000002ea                __vector_81
+                0x00000000000002ea                __vector_46
+                0x00000000000002ea                __bad_interrupt
+                0x00000000000002ea                __vector_72
+                0x00000000000002ea                __vector_6
+                0x00000000000002ea                __vector_31
+                0x00000000000002ea                __vector_92
+                0x00000000000002ea                __vector_35
+                0x00000000000002ea                __vector_78
+                0x00000000000002ea                __vector_74
+                0x00000000000002ea                __vector_39
+                0x00000000000002ea                __vector_3
+                0x00000000000002ea                __vector_23
+                0x00000000000002ea                __vector_68
+                0x00000000000002ea                __vector_30
+                0x00000000000002ea                __vector_73
+                0x00000000000002ea                __vector_45
+                0x00000000000002ea                __vector_93
+                0x00000000000002ea                __vector_61
+                0x00000000000002ea                __vector_11
+                0x00000000000002ea                __vector_54
+                0x00000000000002ea                __vector_13
+                0x00000000000002ea                __vector_17
+                0x00000000000002ea                __vector_19
+                0x00000000000002ea                __vector_56
+                0x00000000000002ea                __vector_7
+                0x00000000000002ea                __vector_49
+                0x00000000000002ea                __vector_41
+                0x00000000000002ea                __vector_86
+                0x00000000000002ea                __vector_43
+                0x00000000000002ea                __vector_5
+                0x00000000000002ea                __vector_33
+                0x00000000000002ea                __vector_76
+                0x00000000000002ea                __vector_47
+                0x00000000000002ea                __vector_52
+                0x00000000000002ea                __vector_37
+                0x00000000000002ea                __vector_89
+                0x00000000000002ea                __vector_4
+                0x00000000000002ea                __vector_44
+                0x00000000000002ea                __vector_82
+                0x00000000000002ea                __vector_51
+                0x00000000000002ea                __vector_9
+                0x00000000000002ea                __vector_2
+                0x00000000000002ea                __vector_21
+                0x00000000000002ea                __vector_15
+                0x00000000000002ea                __vector_66
+                0x00000000000002ea                __vector_36
+                0x00000000000002ea                __vector_79
+                0x00000000000002ea                __vector_58
+                0x00000000000002ea                __vector_70
+                0x00000000000002ea                __vector_83
+                0x00000000000002ea                __vector_29
+                0x00000000000002ea                __vector_60
+                0x00000000000002ea                __vector_40
+                0x00000000000002ea                __vector_85
+                0x00000000000002ea                __vector_8
+                0x00000000000002ea                __vector_26
+                0x00000000000002ea                __vector_48
+                0x00000000000002ea                __vector_80
+                0x00000000000002ea                __vector_84
+                0x00000000000002ea                __vector_57
+                0x00000000000002ea                __vector_53
+                0x00000000000002ea                __vector_10
+                0x00000000000002ea                __vector_50
+                0x00000000000002ea                __vector_16
+                0x00000000000002ea                __vector_59
+                0x00000000000002ea                __vector_18
+                0x00000000000002ea                __vector_20
+                0x00000000000002ea                __vector_42
+                0x00000000000002ea                __vector_87
+ .text          0x00000000000002ee       0x6c obj/Release/communication/CmultiBusy.o
+                0x00000000000002ee                _Z15initReadMonitorv
+                0x00000000000002fe                __vector_65
+                0x0000000000000320                _Z15initBusyCounterv
+                0x000000000000033c                __vector_14
+ .text          0x000000000000035a      0x16c obj/Release/communication/CRC_Calc.o
+                0x000000000000035a                _ZN8CRC_CalcC1Ev
+                0x000000000000035a                _ZN8CRC_CalcC2Ev
+                0x0000000000000374                _ZN8CRC_CalcD2Ev
+                0x0000000000000374                _ZN8CRC_CalcD1Ev
+                0x0000000000000376                _ZN8CRC_Calc5ResetEv
+                0x000000000000038c                _ZN8CRC_Calc4DataEh
+                0x0000000000000396                _ZN8CRC_Calc4DataEc
+                0x00000000000003a0                _ZN8CRC_Calc6StringEPKc
+                0x00000000000003b8                _ZN8CRC_Calc7Get_CRCEv
+                0x00000000000003c8                _ZN8CRC_Calc7Get_CRCEPc
+                0x00000000000003f8                _ZN8CRC_Calc7compareEPc
+                0x0000000000000468                _ZN8CRC_Calc8Test_CRCEPcS0_h
+ .text          0x00000000000004c6      0x7e6 obj/Release/communication/Serial.o
+                0x00000000000004c6                _ZN6Serial5printEPc
+                0x00000000000004f8                _ZN6Serial8transmitEh
+                0x0000000000000534                _ZN6SerialC2Ei
+                0x0000000000000534                _ZN6SerialC1Ei
+                0x00000000000005a6                _ZN6Serial4openEhm
+                0x0000000000000660                _ZN6SerialD2Ev
+                0x0000000000000660                _ZN6SerialD1Ev
+                0x0000000000000662                _ZN6Serial7printlnEPc
+                0x000000000000068a                _ZN6Serial7printlnEv
+                0x000000000000069c                _ZN6Serial7print10Em
+                0x0000000000000986                _ZN6Serial5printEhi
+                0x0000000000000988                _ZN6Serial9print_binEhcc
+                0x00000000000009dc                _ZN6Serial7pformatEPKcz
+                0x0000000000000b48                _ZN6Serial7printlnEfi
+                0x0000000000000b6c                _ZN6Serial7getCharERc
+                0x0000000000000ba4                _ZN6Serial11input_flushEv
+                0x0000000000000bb6                _ZN6Serial10input_charEv
+                0x0000000000000be4                __vector_25
+                0x0000000000000c2a                __vector_88
+                0x0000000000000c74                __vector_27
+                0x0000000000000c88                __vector_90
+ .text          0x0000000000000cac       0xba obj/Release/librfm12/examples/simple/pingpong.o
+                0x0000000000000d08                _Z10init_clockii
+ .text          0x0000000000000d66      0x378 obj/Release/librfm12/examples/simple/rfm12.o
+                0x0000000000000dc6                __vector_64
+                0x0000000000000f4c                _Z10rfm12_tickv
+                0x0000000000000fce                _Z14rfm12_start_txhh
+                0x0000000000000ff4                _Z8rfm12_txhhPh
+                0x000000000000102e                _Z14rfm12_rx_clearv
+                0x0000000000001050                _Z10rfm12_initv
+                0x00000000000010de                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00000000000010de        0x8 obj/Release/communication/Communication.o
+ .text.exit     0x00000000000010e6        0x8 obj/Release/communication/Communication.o
+ .text.startup  0x00000000000010ee      0x144 obj/Release/librfm12/examples/simple/pingpong.o
+                0x00000000000010fa                main
+ .text.exit     0x0000000000001232        0x8 obj/Release/librfm12/examples/simple/pingpong.o
+ .text.avr-libc
+                0x000000000000123a      0x6fa /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+                0x000000000000123a                vfprintf
+ .text.libgcc.mul
+                0x0000000000001934       0x20 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+                0x0000000000001934                __mulsi3
+ .text.libgcc.div
+                0x0000000000001954       0x28 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+                0x0000000000001954                __udivmodhi4
+ .text.libgcc.div
+                0x000000000000197c       0x44 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+                0x000000000000197c                __udivmodsi4
+ .text.libgcc.mul
+                0x00000000000019c0       0x16 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+                0x00000000000019c0                __muluhisi3
+ .text.libgcc.prologue
+                0x00000000000019d6       0x32 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+                0x00000000000019d6                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000000000001a08       0x30 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+                0x0000000000001a08                __epilogue_restores__
+ .text.libgcc   0x0000000000001a38        0xc /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+                0x0000000000001a38                __tablejump2__
+ .text.libgcc.mul
+                0x0000000000001a44       0x1e /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+                0x0000000000001a44                __umulhisi3
+ .text.avr-libc
+                0x0000000000001a62      0x1b0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+                0x0000000000001a62                __ftoa_engine
+ .text.avr-libc
+                0x0000000000001c12       0x16 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen_P.o)
+                0x0000000000001c12                strnlen_P
+ .text.avr-libc
+                0x0000000000001c28       0x12 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(memcpy.o)
+                0x0000000000001c28                memcpy
+ .text.avr-libc
+                0x0000000000001c3a       0x16 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen.o)
+                0x0000000000001c3a                strnlen
+ .text.avr-libc
+                0x0000000000001c50       0x78 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+                0x0000000000001c50                fputc
+ .text.avr-libc
+                0x0000000000001cc8       0x44 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+                0x0000000000001cc8                sprintf
+ .text.avr-libc
+                0x0000000000001d0c       0xbc /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ultoa_invert.o)
+                0x0000000000001d0c                __ultoa_invert
+                0x0000000000001dc8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000001dc8        0x0 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+                0x0000000000001dc8                exit
+                0x0000000000001dc8                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x0000000000001dc8       0x16 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+                0x0000000000001dc8                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000001dde        0x4 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000001de2                _etext = .
+
+.data           0x0000000000802000       0x9e load address 0x0000000000001de2
+                0x0000000000802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000802000       0x31 obj/Release/communication/Serial.o
+                0x0000000000802000                CTRL_A_36864K
+                0x0000000000802007                CTRL_A_29491200
+                0x000000000080200e                CTRL_A_18432K
+                0x0000000000802015                CTRL_B_2M
+                0x000000000080201c                CTRL_A_2M
+                0x0000000000802023                CTRL_B_32M
+                0x000000000080202a                CTRL_A_32M
+ .data          0x0000000000802031        0x1 obj/Release/librfm12/examples/simple/rfm12.o
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0000000000802032       0x11 obj/Release/communication/Serial.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000802043        0x5 obj/Release/communication/CRC_Calc.o
+ .rodata.str1.1
+                0x0000000000802048        0x7 obj/Release/communication/Serial.o
+                                          0xa (size before relaxing)
+ .rodata._ZTV6Serial
+                0x000000000080204f        0x8 obj/Release/communication/Serial.o
+                0x000000000080204f                _ZTV6Serial
+ .rodata.str1.1
+                0x0000000000802057       0x46 obj/Release/librfm12/examples/simple/pingpong.o
+ *(.gnu.linkonce.r*)
+                0x000000000080209e                . = ALIGN (0x2)
+ *fill*         0x000000000080209d        0x1 
+                0x000000000080209e                _edata = .
+                0x000000000080209e                PROVIDE (__data_end, .)
+
+.bss            0x000000000080209e       0xc5
+                0x000000000080209e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x000000000080209e        0x3 obj/Release/communication/Communication.o
+                0x000000000080209e                sendFree
+                0x000000000080209f                crcGlobal
+ .bss           0x00000000008020a1       0x4b obj/Release/communication/Serial.o
+                0x00000000008020a1                CTRL_B_36864K
+                0x00000000008020a8                CTRL_B_29491200
+                0x00000000008020af                CTRL_B_18432K
+                0x00000000008020b6                UART1_ring_buffer
+                0x00000000008020d0                UART1_ring_received
+                0x00000000008020d1                UART0_ring_buffer
+                0x00000000008020eb                UART0_ring_received
+ .bss           0x00000000008020ec        0x9 obj/Release/librfm12/examples/simple/pingpong.o
+                0x00000000008020ec                debug
+ .bss           0x00000000008020f5       0x6e obj/Release/librfm12/examples/simple/rfm12.o
+                0x00000000008020f5                ctrl
+                0x00000000008020fb                rf_rx_buffers
+                0x000000000080213f                rf_tx_buffer
+ *(.bss*)
+ *(COMMON)
+                0x0000000000802163                PROVIDE (__bss_end, .)
+                0x0000000000001de2                __data_load_start = LOADADDR (.data)
+                0x0000000000001e80                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000802163        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000802163                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x30 obj/Release/communication/CmultiBusy.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x31 obj/Release/communication/Communication.o
+ .comment       0x0000000000000030       0x31 obj/Release/communication/CRC_Calc.o
+ .comment       0x0000000000000030       0x31 obj/Release/communication/Serial.o
+ .comment       0x0000000000000030       0x31 obj/Release/librfm12/examples/simple/pingpong.o
+ .comment       0x0000000000000030       0x31 obj/Release/librfm12/examples/simple/rfm12.o
+ .comment       0x0000000000000030       0x2c /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005c       0x2d /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+ .comment       0x000000000000005c       0x2d /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x22d1
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x22d1 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+
+.debug_abbrev   0x0000000000000000     0x20f8
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x20f8 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+
+.debug_line     0x0000000000000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x172c
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x172c /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(bin/Release/simple.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+CTRL_A_18432K                                     obj/Release/communication/Serial.o
+CTRL_A_29491200                                   obj/Release/communication/Serial.o
+CTRL_A_2M                                         obj/Release/communication/Serial.o
+CTRL_A_32M                                        obj/Release/communication/Serial.o
+CTRL_A_36864K                                     obj/Release/communication/Serial.o
+CTRL_B_18432K                                     obj/Release/communication/Serial.o
+CTRL_B_29491200                                   obj/Release/communication/Serial.o
+CTRL_B_2M                                         obj/Release/communication/Serial.o
+CTRL_B_32M                                        obj/Release/communication/Serial.o
+CTRL_B_36864K                                     obj/Release/communication/Serial.o
+UART0_ring_buffer                                 obj/Release/communication/Serial.o
+UART0_ring_received                               obj/Release/communication/Serial.o
+UART1_ring_buffer                                 obj/Release/communication/Serial.o
+UART1_ring_received                               obj/Release/communication/Serial.o
+_Z10init_clockii                                  obj/Release/librfm12/examples/simple/pingpong.o
+_Z10rfm12_initv                                   obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_Z10rfm12_tickv                                   obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_Z14rfm12_rx_clearv                               obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_Z14rfm12_start_txhh                              obj/Release/librfm12/examples/simple/rfm12.o
+_Z15initBusyCounterv                              obj/Release/communication/CmultiBusy.o
+_Z15initReadMonitorv                              obj/Release/communication/CmultiBusy.o
+_Z8rfm12_txhhPh                                   obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_ZN13Communication11sendCommandEPccc              obj/Release/communication/Communication.o
+_ZN13Communication12sendStandardEPcS0_ccc         obj/Release/communication/Communication.o
+_ZN13Communication4sendEPcS0_cccc                 obj/Release/communication/Communication.o
+_ZN13Communication5printEPc                       obj/Release/communication/Communication.o
+_ZN13Communication8sendInfoEPcS0_                 obj/Release/communication/Communication.o
+_ZN13Communication8transmitEh                     obj/Release/communication/Communication.o
+_ZN13CommunicationD1Ev                            obj/Release/communication/Communication.o
+_ZN13CommunicationD2Ev                            obj/Release/communication/Communication.o
+_ZN6Serial10input_charEv                          obj/Release/communication/Serial.o
+_ZN6Serial11input_flushEv                         obj/Release/communication/Serial.o
+                                                  obj/Release/communication/Communication.o
+_ZN6Serial4openEhm                                obj/Release/communication/Serial.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_ZN6Serial5printEPc                               obj/Release/communication/Serial.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_ZN6Serial5printEhi                               obj/Release/communication/Serial.o
+_ZN6Serial7getCharERc                             obj/Release/communication/Serial.o
+                                                  obj/Release/communication/Communication.o
+_ZN6Serial7pformatEPKcz                           obj/Release/communication/Serial.o
+_ZN6Serial7print10Em                              obj/Release/communication/Serial.o
+_ZN6Serial7printlnEPc                             obj/Release/communication/Serial.o
+_ZN6Serial7printlnEfi                             obj/Release/communication/Serial.o
+_ZN6Serial7printlnEv                              obj/Release/communication/Serial.o
+_ZN6Serial8transmitEh                             obj/Release/communication/Serial.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+                                                  obj/Release/communication/Communication.o
+_ZN6Serial9print_binEhcc                          obj/Release/communication/Serial.o
+_ZN6SerialC1Ei                                    obj/Release/communication/Serial.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_ZN6SerialC2Ei                                    obj/Release/communication/Serial.o
+_ZN6SerialD1Ev                                    obj/Release/communication/Serial.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+_ZN6SerialD2Ev                                    obj/Release/communication/Serial.o
+                                                  obj/Release/communication/Communication.o
+_ZN8CRC_Calc4DataEc                               obj/Release/communication/CRC_Calc.o
+_ZN8CRC_Calc4DataEh                               obj/Release/communication/CRC_Calc.o
+_ZN8CRC_Calc5ResetEv                              obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+_ZN8CRC_Calc6StringEPKc                           obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+_ZN8CRC_Calc7Get_CRCEPc                           obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+_ZN8CRC_Calc7Get_CRCEv                            obj/Release/communication/CRC_Calc.o
+_ZN8CRC_Calc7compareEPc                           obj/Release/communication/CRC_Calc.o
+_ZN8CRC_Calc8Test_CRCEPcS0_h                      obj/Release/communication/CRC_Calc.o
+_ZN8CRC_CalcC1Ev                                  obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+_ZN8CRC_CalcC2Ev                                  obj/Release/communication/CRC_Calc.o
+_ZN8CRC_CalcD1Ev                                  obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+_ZN8CRC_CalcD2Ev                                  obj/Release/communication/CRC_Calc.o
+_ZTV13Communication                               obj/Release/communication/Communication.o
+_ZTV6Serial                                       obj/Release/communication/Serial.o
+__FUSE_REGION_LENGTH__                            /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__bad_interrupt                                   /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__bss_end                                         /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+__bss_start                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+__ctors_end                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+__ctors_start                                     /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+__data_end                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+__data_load_start                                 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+__data_start                                      /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+__do_clear_bss                                    /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_clear_bss.o)
+                                                  obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+                                                  obj/Release/communication/Serial.o
+                                                  obj/Release/communication/Communication.o
+__do_copy_data                                    /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_copy_data.o)
+                                                  obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+                                                  obj/Release/communication/Serial.o
+                                                  obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+__do_global_ctors                                 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+                                                  obj/Release/communication/Communication.o
+__do_global_dtors                                 /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+                                                  obj/Release/communication/Communication.o
+__dtors_end                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+__dtors_start                                     /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+__epilogue_restores__                             /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_epilogue.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+__ftoa_engine                                     /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ftoa_engine.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+__heap_end                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__init                                            /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__mulsi3                                          /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+                                                  obj/Release/communication/Serial.o
+__muluhisi3                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_mulsi3.o)
+                                                  obj/Release/communication/Serial.o
+__prologue_saves__                                /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_prologue.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+__stack                                           /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__tablejump2__                                    /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_tablejump2.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_dtors.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_ctors.o)
+__udivmodhi4                                      /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodhi4.o)
+                                                  obj/Release/communication/Serial.o
+__udivmodsi4                                      /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_udivmodsi4.o)
+                                                  obj/Release/communication/Serial.o
+__ultoa_invert                                    /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(ultoa_invert.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+__umulhisi3                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_umulhisi3.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_muluhisi3.o)
+__vector_1                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_10                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_11                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_12                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_13                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_14                                       obj/Release/communication/CmultiBusy.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_15                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_16                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_17                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_18                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_19                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_2                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_20                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_21                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_22                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_23                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_24                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_25                                       obj/Release/communication/Serial.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_26                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_27                                       obj/Release/communication/Serial.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_28                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_29                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_3                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_30                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_31                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_32                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_33                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_34                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_35                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_36                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_37                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_38                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_39                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_4                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_40                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_41                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_42                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_43                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_44                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_45                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_46                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_47                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_48                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_49                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_5                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_50                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_51                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_52                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_53                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_54                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_55                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_56                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_57                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_58                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_59                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_6                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_60                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_61                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_62                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_63                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_64                                       obj/Release/librfm12/examples/simple/rfm12.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_65                                       obj/Release/communication/CmultiBusy.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_66                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_67                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_68                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_69                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_7                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_70                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_71                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_72                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_73                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_74                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_75                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_76                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_77                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_78                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_79                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_8                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_80                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_81                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_82                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_83                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_84                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_85                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_86                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_87                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_88                                       obj/Release/communication/Serial.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_89                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_9                                        /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_90                                       obj/Release/communication/Serial.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_91                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_92                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_93                                       /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vector_default                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+__vectors                                         /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+_exit                                             /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+crcGlobal                                         obj/Release/communication/Communication.o
+ctrl                                              obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+debug                                             obj/Release/librfm12/examples/simple/pingpong.o
+exit                                              /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avrxmega2/libgcc.a(_exit.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+fputc                                             /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(fputc.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+main                                              obj/Release/librfm12/examples/simple/pingpong.o
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/crtatxmega32a4.o
+memcpy                                            /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(memcpy.o)
+                                                  obj/Release/librfm12/examples/simple/rfm12.o
+rf_rx_buffers                                     obj/Release/librfm12/examples/simple/rfm12.o
+                                                  obj/Release/librfm12/examples/simple/pingpong.o
+rf_tx_buffer                                      obj/Release/librfm12/examples/simple/rfm12.o
+sendFree                                          obj/Release/communication/Communication.o
+                                                  obj/Release/communication/CmultiBusy.o
+sprintf                                           /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)
+                                                  obj/Release/communication/CRC_Calc.o
+                                                  obj/Release/communication/Communication.o
+strnlen                                           /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+strnlen_P                                         /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(strnlen_P.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+vfprintf                                          /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libprintf_flt.a(vfprintf_flt.o)
+                                                  /home/chrak/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/libc.a(sprintf.o)

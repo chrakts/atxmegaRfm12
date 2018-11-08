@@ -36,15 +36,16 @@
  *      ( thou shalt not change lines below )         *
  *                                                    *
  ******************************************************/
- 
+
 #ifndef _RFM12_H
 #define _RFM12_H
 
-#ifdef __PLATFORM_LINUX__
+//#ifdef __PLATFORM_LINUX__
 #include <stdint.h>
-#endif
+//#endif
 
 //this was missing, but is very important to set the config options for structs and such
+#include "../examples/config.h"
 #include "include/rfm12_core.h"
 
 /** \name States for rx and tx buffers

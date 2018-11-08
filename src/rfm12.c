@@ -1,5 +1,5 @@
 /**** RFM 12 library for Atmel AVR Microcontrollers *******
- * 
+ *
  * This software is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published
  * by the Free Software Foundation; either version 2 of the License,
@@ -88,21 +88,21 @@ rfm12_control_t ctrl;
 */
 
 /* include spi functions into here */
-#include "include/rfm12_spi.c"
-#include "include/rfm12_spi_linux.c"
+#include "include/rfm12_spi.cpp"
+#include "include/rfm12_spi_linux.cpp"
 
 /*
  * include control / init functions into here
  * all of the stuff in there is optional, so there's no code-bloat.
 */
 #define RFM12_LIVECTRL_HOST 1//if we are buliding for the microcontroller, we are the host.
-#include "include/rfm12_livectrl.c"
+#include "include/rfm12_livectrl.cpp"
 
 /*
  * include extra features here
  * all of the stuff in there is optional, so there's no code-bloat..
 */
-#include "include/rfm12_extra.c"
+#include "include/rfm12_extra.cpp"
 
 
 /************************
@@ -115,11 +115,11 @@ rfm12_control_t ctrl;
 * microcontroller - by pulling the nIRQ pin low - on the following events:
 * - The TX register is ready to receive the next byte (RGIT)
 * - The FIFO has received the preprogrammed amount of bits (FFIT)
-* - Power-on reset (POR) 
-* - FIFO overflow (FFOV) / TX register underrun (RGUR) 
-* - Wake-up timer timeout (WKUP) 
-* - Negative pulse on the interrupt input pin nINT (EXT) 
-* - Supply voltage below the preprogrammed value is detected (LBD) 
+* - Power-on reset (POR)
+* - FIFO overflow (FFOV) / TX register underrun (RGUR)
+* - Wake-up timer timeout (WKUP)
+* - Negative pulse on the interrupt input pin nINT (EXT)
+* - Supply voltage below the preprogrammed value is detected (LBD)
 *
 * The rfm12 status register is read to determine which event has occured.
 * Reading the status register will clear the event flags.
@@ -148,7 +148,7 @@ ISR(RFM12_INT_VECT, ISR_NOBLOCK)
 	do {
 		//clear AVR int flag
 #ifdef __PLATFORM_AVR__
-		RFM12_INT_FLAG = (1<<RFM12_FLAG_BIT);
+		// RFM12_INT_FLAG = (1<<RFM12_FLAG_BIT); ### ist nicht noetig - Flag loescht sich selbst.
 #endif
 
 		//first we read the first byte of the status register
@@ -582,7 +582,7 @@ rfm12_start_tx(uint8_t type, uint8_t length) {
 * which is the case when the packet data does not change while the packet is enqueued
 * for transmission, then one could directly store the data in \ref rf_tx_buffer
 * (see rf_tx_buffer_t) and use the rfm12_start_tx() function.
-* 
+*
 * \note Note that this function does not start the transmission, it merely enqueues the packet. \n
 * Transmissions are started by rfm12_tick().
 * \param [len] The packet data length
@@ -721,7 +721,7 @@ void rfm12_init(void) {
 	//initialize spi
 #ifdef __PLATFORM_AVR__
 	SS_RELEASE();
-	DDR_SS |= (1<<BIT_SS);
+	//DDR_SS |= (1<<BIT_SS); überflüssig, das macht die Zeile anschließend schon
 #endif
 	spi_init();
 
@@ -803,7 +803,7 @@ void rfm12_init(void) {
 	rfm12_read(RFM12_CMD_STATUS);
 
 #ifdef __PLATFORM_AVR__
-	RFM12_INT_FLAG = (1<<RFM12_FLAG_BIT);
+	// RFM12_INT_FLAG = (1<<RFM12_FLAG_BIT);  ### nicht notwendig?
 #endif
 
 	//init receiver fifo, we now begin receiving.

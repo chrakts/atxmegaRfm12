@@ -22,10 +22,14 @@
  *	THIS FILE IS BEING INCLUDED DIRECTLY		*
  *		(for performance reasons)				*
  ******************************************************/
-
+#include "../../examples/config.h"
 //hardware spi helper macros
-#define SS_ASSERT() PORT_SS &= ~(1<<BIT_SS)
-#define SS_RELEASE() PORT_SS |= (1<<BIT_SS)
+//#define SS_ASSERT() PORT_SS &= ~(1<<BIT_SS)
+//#define SS_RELEASE() PORT_SS |= (1<<BIT_SS)
+#define SS_ASSERT()  SPI_CS_ON
+#define SS_RELEASE() SPI_CS_OFF
+
+#include <stdint.h>
 
 #ifdef __PLATFORM_AVR__
 
@@ -60,10 +64,10 @@ static void __attribute__ ((noinline)) rfm12_data(uint16_t d) {
 	SS_ASSERT();
 	#if !(RFM12_SPI_SOFTWARE)
 		SPDR = d >> 8;
-		while (!(SPSR & (1<<SPIF)));
+		while ( !(SPSR & (1<<SPIF)) );
 
 		SPDR = d & 0xff;
-		while (!(SPSR & (1<<SPIF)));
+		while ( !(SPSR & (1<<SPIF)) );
 	#else
 		spi_data(d >> 8);
 		spi_data(d & 0xff);
@@ -123,17 +127,24 @@ static uint8_t rfm12_read_int_flags_inline(void) {
 }
 
 static void spi_init(void) {
-	DDR_MOSI |= (_BV(BIT_MOSI));
-	DDR_SCK  |= (_BV(BIT_SCK));
+//	DDR_MOSI |= (_BV(BIT_MOSI));
+//	DDR_SCK  |= (_BV(BIT_SCK));
+    SPI_SCK_DIRECTION;
+    SPI_MOSI_DIRECTION;
+    SPI_MISO_DIRECTION;
+
 	#if !(RFM12_SPI_SOFTWARE)
-		PORT_SPI |= (_BV(BIT_SPI_SS));
-		DDR_SPI  |= (_BV(BIT_SPI_SS));
+//		PORT_SPI |= (_BV(BIT_SPI_SS));
+//		DDR_SPI  |= (_BV(BIT_SPI_SS));
+        SPI_CS_DIRECTION;
+        SPI_CS_OFF;
 	#endif
 
-	DDR_MISO &= ~(_BV(BIT_MISO));
+//	DDR_MISO &= ~(_BV(BIT_MISO));
 
 	#if !(RFM12_SPI_SOFTWARE)
-		SPCR = (1<<SPE) | (1<<MSTR) | (1<<SPR0); //SPI Master, clk/16
+		//SPCR = (1<<SPE) | (1<<MSTR) | (1<<SPR0); //SPI Master, clk/16
+		SPCR = SPI_ENABLE_bm | SPI_MODE_0_gc | SPI_MASTER_bm | SPI_PRESCALER_DIV128_gc;
 	#endif
 }
 

@@ -21,8 +21,10 @@
 #ifndef _RFM12_CORE_H
 #define _RFM12_CORE_H
 
+#include "../../examples/config.h"
+
 /************************
-* VARIOUS RFM RELATED DEFINES FOR INTERNAL USE	
+* VARIOUS RFM RELATED DEFINES FOR INTERNAL USE
 *(defines which shall be visible to the user are located in rfm12.h)
 */
 
@@ -107,7 +109,7 @@
 	//define PWRMGMT_LOW_BATT  with low batt detector
 	//it will be used later
 	#define PWRMGMT_LOW_BATT (RFM12_PWRMGT_EB)
-	
+
 	//check if the default power management setting has the LB bit set
 	//and warn the user if it's not
 	#ifdef PWRMGT_DEFAULT
@@ -129,7 +131,7 @@
 	//define PWRMGMT_LOW_BATT  with low batt detector
 	//it will be used later
 	#define PWRMGMT_WKUP (RFM12_PWRMGT_EW)
-	
+
 	//check if the default power management setting has the EW bit set
 	//and warn the user if it's not
 	#ifdef PWRMGT_DEFAULT
@@ -279,8 +281,10 @@
 //macros to turn the int on and off
 //if polling is used, just define these macros as empty
 #if !(RFM12_USE_POLLING)
-	#define RFM12_INT_ON() RFM12_INT_MSK |= (1<<RFM12_INT_BIT)
-	#define RFM12_INT_OFF() RFM12_INT_MSK &= ~(1<<RFM12_INT_BIT)
+//	#define RFM12_INT_ON() RFM12_INT_MSK |= (1<<RFM12_INT_BIT)
+//	#define RFM12_INT_OFF() RFM12_INT_MSK &= ~(1<<RFM12_INT_BIT)
+	#define RFM12_INT_ON() RFM12_INT_ON_()
+	#define RFM12_INT_OFF() RFM12_INT_OFF_()
 #else
 	#define RFM12_INT_ON()
 	#define RFM12_INT_OFF()
