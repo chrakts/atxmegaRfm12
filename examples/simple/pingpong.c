@@ -2,9 +2,9 @@
 	#include <avr/io.h>
 	#include <avr/interrupt.h>
 	#include "../../../communication/Communication.h"
+	#include <util/delay.h>
 #endif
 
-#include <util/delay.h>
 #include <string.h>
 
 #include "rfm12.h"
